@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+h1{
+	color: #00f;
+	background-color: #0CF;
+	border-top: 3px dashed #00f;
+	border-bottom: 3px dashed #00f;
+	font-size: 20px;
+	text-align: center;
+}
+ul{
+	list-style-type: square;
+}
+li{
+	font-size: 16px;
+}
+p{
+	font-size: 16px;
+}
+span{
+	color: #f00;
+	font-size: 18px;
+}
+a{
+	color: #f93;
+}
